@@ -1,0 +1,178 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#one{
+    
+    background: url('bg_3.jpg.webp') no-repeat center center/cover;  
+    height: 650px;
+    
+    
+}
+.two{
+    background-color: rgb(255, 255, 255);
+}
+.two h5{
+    padding: 19px 41px;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+.two h1{
+    padding: 20px 41px;
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+.two p{
+    padding: 0px 41px;
+    font-size: 19px;
+    color: rgb(179, 175, 175);
+}
+.menu img{
+    padding: 32px;
+}
+.menu h6{
+    color: gray;
+    cursor: pointer;
+}
+.menu h6:hover{
+    color: black
+    
+}
+#info span{
+    font-family: "Lovers Quarrel", cursive;
+    color: rgb(224, 88, 88);
+    font-size: 4rem;
+    
+}
+#info p{
+    font-size: 17px;
+    padding: 5px;
+    color: rgb(179, 175, 175);
+}
+.menu2 img{
+    width: 181px;
+    height: 159px;
+}
+.menu2 h6{
+    color: gray;
+    cursor: pointer;
+}
+.menu2 h6:hover{
+    color: black
+    
+}
+
+#members{
+    background-image: url(bg_4.jpg.webp);
+    background-size: cover;
+    position: relative;
+    height: 300px;
+    opacity: 0.8;
+    
+}
+#members::before{
+    content: "";
+    background: transparent;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.memb{
+    color: white;
+    font-size: 1.5rem;
+    padding: 110px 55px;
+}
+#menu h1{
+    font-family: "Lovers Quarrel", cursive;
+    color: rgb(224, 88, 88);
+    font-size: 4rem;
+}
+#menu h2{
+    
+    font-size: 3rem;
+}
+.menu3 img{
+    width: 182px;
+    height: 141px;
+    border-radius: 74px;
+
+}
+.text p{
+    font-size: 14px;
+    padding: 25px 0px;
+    font-weight: bold;
+    color: gray;
+}
+
+.text span{
+
+        font-size: 22px;
+        padding: 20px 0px;
+        font-weight: bold;
+
+}
+
+.carousel{
+    background-image: url(bg_5.jpg.webp);
+    background-size: cover;
+    position: relative;
+    height: 400px;
+    opacity: 0.88;
+    
+}
+.carousel::before{
+    content: "";
+    background: transparent;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.carousel img{
+    
+        width: 142px;
+        border-radius: 100%;
+        padding: 29px 0px;
+    }
+
+    #Customer h1{
+        font-family: "Lovers Quarrel", cursive;
+        color: rgb(224, 88, 88);
+        font-size: 4rem;
+    }
+    #Customer h2{
+        
+        font-size: 2.5rem;
+    }
+    #chef h1{
+        font-family: "Lovers Quarrel", cursive;
+        color: rgb(224, 88, 88);
+        font-size: 4rem;
+    }
+    #chef h2{
+        
+        font-size: 2.5rem;
+    }
+    .button{
+        padding: 14px 33px;
+        font-size: 17px;
+        background-color: #474646;
+        border: #474646;
+        color: white;
+        border-radius: 0px;
+    }
+    .button2{
+        padding: 14px 33px;
+        font-size: 17px;
+        background-color:rgb(226, 85, 85);
+        border:rgb(226, 85, 85);
+        border-radius: 0px;
+        color: white;
+       }
+    
+
